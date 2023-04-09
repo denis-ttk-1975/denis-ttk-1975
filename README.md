@@ -17,6 +17,7 @@
 - TypeScript
 - фреймворки тестирования Jest, Cypress
 - NodeJS, Express, Nest
+- Electron
 
 
 
