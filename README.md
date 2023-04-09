@@ -17,6 +17,7 @@
 - TypeScript
 - фреймворки тестирования Jest, Cypress
 - NodeJS, Express, Nest
+- тестирование и проектирование RestAPI - Postman, Swagger
 - MongoDB, Mongoose
 - PostgreSQL, TypeORM
 - Electron
