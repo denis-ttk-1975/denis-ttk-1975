@@ -2,10 +2,11 @@
 
 Рад тебя видеть на моем профиле в Гитхаб!
 
-Я фронтэнд разработчик, ранее изучал информационную безопасность, а сейчас еще и двигаюсь в сторону DevOps (Linux, Docker, K8s, Terraform ... and all this staff).
+Я fullstack разработчик, ранее изучал информационную безопасность, а сейчас еще и двигаюсь в сторону DevOps (Linux, Docker, K8s, Terraform ... and all this staff).
 
 Мой профессиональный стек как фронтэнд разработчика:
 - естественно верстка (html, css), куда же без нее :-)
+- Figma
 - BEM
 - Git, GitHub, GitFlow
 - пре- и пост-процессоры (sass, scss, postcss)
@@ -15,6 +16,7 @@
 - React, Redux, Redux-Thunk, Saga, Effector
 - TypeScript
 - фреймворки тестирования Jest, Cypress
+- NodeJS, Express, Nest
 
 
 
