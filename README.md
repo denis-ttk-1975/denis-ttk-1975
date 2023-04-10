@@ -20,6 +20,7 @@
 - тестирование и проектирование RestAPI - Postman, Swagger
 - MongoDB, Mongoose
 - PostgreSQL, TypeORM
+- SQL
 - Electron
 
 
