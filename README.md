@@ -22,6 +22,9 @@
 - PostgreSQL, TypeORM
 - SQL
 - Electron
+- Linux
+- PM2
+- Docker, Docker-compose
 
 
 
