@@ -22,6 +22,7 @@
 - PostgreSQL, TypeORM
 - SQL
 - Electron
+- PWA, Service-Workers, Manifest
 - Linux
 - PM2
 - Docker, Docker-compose
